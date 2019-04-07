@@ -1,2 +1,2 @@
 # webScrapping
-Web Scrapping on News Website using Python, BeautifulSoup and requests
+Web Scrapping on news website using Python, BeautifulSoup and requests
